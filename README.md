@@ -69,3 +69,13 @@ Used **GridSearchCV (5‑fold CV)** with negative MAPE scoring.
 - Overfitting was diagnosed and mitigated using 5‑fold CV.
 
 ## Repository Structure
+
+bleve-overpressure-prediction/
+|
+|--README.md
+|--main.ipynb
+|--BLEVE_Report.pdf
+
+## License
+Educational use only. No real BLEVE data or proprietary information included.
+
