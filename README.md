@@ -71,10 +71,12 @@ Used **GridSearchCV (5‑fold CV)** with negative MAPE scoring.
 ## Repository Structure
 
 bleve-overpressure-prediction/
-|
-|--README.md
-|--main.ipynb
-|--BLEVE_Report.pdf
+│
+├── README.md
+├── main.ipynb
+├── main.py (optional)
+└── /docs (optional)
+└── BLEVE_Report.pdf
 
 ## License
 Educational use only. No real BLEVE data or proprietary information included.
