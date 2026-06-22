@@ -68,6 +68,16 @@ Used **GridSearchCV (5‑fold CV)** with negative MAPE scoring.
 - LightGBM’s leaf‑wise growth and histogram binning handled tabular data best.  
 - Overfitting was diagnosed and mitigated using 5‑fold CV.
 
+## How To Run
+
+1. Open `main.ipynb` in Jupyter Notebook or Google Colab.
+2. Place the Kaggle `train.csv` and `test.csv` files in the same directory as the notebook.
+3. Install required packages:
+   -pip install pandas numpy scikit-learn xgboost lightgbm matplotlib
+4. Run all cells in order
+
+*Note: Dataset is from the BLEVE Peak Pressure Kaggle competition and is not included in this repository.*
+
 ## License
 Educational use only. No real BLEVE data or proprietary information included.
 
