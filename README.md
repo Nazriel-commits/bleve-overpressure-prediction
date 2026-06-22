@@ -68,16 +68,6 @@ Used **GridSearchCV (5‑fold CV)** with negative MAPE scoring.
 - LightGBM’s leaf‑wise growth and histogram binning handled tabular data best.  
 - Overfitting was diagnosed and mitigated using 5‑fold CV.
 
-## Repository Structure
-
-bleve-overpressure-prediction/
-│
-├── README.md
-├── main.ipynb
-├── main.py (optional)
-└── /docs (optional)
-└── BLEVE_Report.pdf
-
 ## License
 Educational use only. No real BLEVE data or proprietary information included.
 
